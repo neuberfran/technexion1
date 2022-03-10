@@ -55,7 +55,7 @@
 };
 
 &uart6 {
-	status = "disabled";
+	status = "okay";
 };
 
 &wdog3{
